@@ -1,0 +1,6 @@
+{
+  "deploy": {
+    "startCommand": "python3 bot.py",
+    "buildCommand": "pip install -r requirements.txt"
+  }
+}
