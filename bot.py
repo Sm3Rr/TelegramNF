@@ -1,5 +1,6 @@
 from pyrogram import Client, filters
 import os
+os.system("apt update && apt install -y ffmpeg")
 import requests
 import subprocess
 
